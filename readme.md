@@ -1,8 +1,8 @@
 
 
-# poi0322&nbsp;<img src="https://github.com/poi0322/poi0322/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoi0322%2Fpoi0322)](https://hits.seeyoufarm.com) 
+# poi0322&nbsp;<img src="https://avatars3.githubusercontent.com/u/23079961?s=60&v=4" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoi0322%2Fpoi0322)](https://hits.seeyoufarm.com) 
 
-### Hello world!&nbsp;<img src="https://github.com/poi0322/poi0322/blob/master/earth.gif" width="24px">
+### Hello world!&nbsp;<img src="https://avatars3.githubusercontent.com/u/23079961?s=60&v=4" width="24px">
 
 <p>
   <em>
