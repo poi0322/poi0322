@@ -10,12 +10,23 @@
 </p>
 
 ## Project 💻
-
 ### 2020
-  * ㄴㅇㄹ
-### 2019
-### 2018
+* Stress Test Module with PyQt and Python
+* Factory flow and Document Management System & Web Application with Node.js Express
+* QR Scanning and Local Notification App with Android
+* TCP Socket Processing and RT Monitoring System with Node.js Express
+* Control BLE Device at Web with Socket.io and Node.js Express
+* Control BLED Dongle with PyQt Python
+* Emitting BLE Beacon App with Android
 
+### 2019
+* Processing Multi-Thread TCP Socketwith Java and JDBC
+* BLE Windows App with Java
+* GPS based RT Car Sharing native App with Android Java
+* GPS based Community with Android java
+
+### 2018
+* Unity Project with C#
 
 ## Contacts 📫
 
