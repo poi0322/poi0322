@@ -14,19 +14,10 @@
 
 ![poi0322's github stats](https://github-readme-stats.vercel.app/api?username=poi0322&show_icons=true)
 
-<!--
-### Project ⚡
-
-* Development Diary Blog([blog](https://poi0322.github.io))
-* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
-* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
--->
-
 ### Contacts 📫
 
 * Github Repo Issue
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
+* Email: poi0322@naver.com
 
   <div align=center>
   
