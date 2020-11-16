@@ -1,8 +1,6 @@
-
-
 # poi0322&nbsp;<img src="https://avatars3.githubusercontent.com/u/23079961?s=60&v=4" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoi0322%2Fpoi0322)](https://hits.seeyoufarm.com) 
 
-### Keep it Short and Simple!&nbsp;<img src="https://avatars3.githubusercontent.com/u/23079961?s=60&v=4" width="24px">
+## Keep it Short and Simple!&nbsp;<img src="https://avatars3.githubusercontent.com/u/23079961?s=60&v=4" width="24px">
 
 <p>
   <em>
@@ -11,14 +9,17 @@
   </em>  
 </p>
 
-![poi0322's github stats](https://github-readme-stats.vercel.app/api?username=poi0322&show_icons=true&count_private=true)
+## Project 💻
 
-### Contacts 📫
+### 2020
+  * ㄴㅇㄹ
+### 2019
+### 2018
+
+
+## Contacts 📫
 
 * Github Repo Issue
 * Email: poi0322@naver.com
 
-  <div align=center>
-  
-  </div>
-  
+![poi0322's github stats](https://github-readme-stats.vercel.app/api?username=poi0322&show_icons=true&count_private=true)
